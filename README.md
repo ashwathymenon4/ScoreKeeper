@@ -9,10 +9,10 @@
 
 ## Features
 * Responsive
-* User friendly User Interface
-* Score Reset
-* Freeze update of scores when winner is detected
-* Flexibility to choose maximum rounds in a game
+* User-friendly interface
+* Game Reset Option
+* Auto-freeze the increment of individual team scores when winner is detected
+* Flexibility to choose maximum score in a game
 
 ## Code Snippets
 ### **updateScore** function updates a particular team's score based on the button click event.
