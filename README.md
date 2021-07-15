@@ -1,6 +1,9 @@
 # Score Keeper
 **Score Keeper** is a web application used to maintain score between two teams. The application allows one to select the maximum score of the game and disables score increment when a winner is detected or a tie is detected. One can also reset the web-page the game to default score values.
 
+## Demo
+You can view the website at: https://ashwathymenon4.github.io/ScoreKeeper/
+
 ## Technologies
 * HTML
 * CSS
